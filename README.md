@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Gabriel Andrade, e atualmente sou um programador web. 😄</p>
+<p align="left">Meu nome é Gabriel Andrade, tenho 18 anos, e atualmente sou um programador Back-End em formação. 😄</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Atualmente trabalho com Front-End, desenvolvendo interfaces e experiências para a web de forma prática e moderna;<br><br>    📚 Estou estudando JavaScript, aprofundando lógica, sintaxe e boas práticas para evoluir como desenvolvedor;<br><br>    🚀 Futuro Desenvolvedor Back-End, com foco em expandir meus conhecimentos para além do visual e dominar o funcionamento por trás das aplicações;<br><br>    🧑‍💻 Pronouns: ele/dele.</p>
+<p align="left">💻 Atualmente estou focado no desenvolvimento Back-End, trabalhando na construção da lógica, estrutura e funcionamento das aplicações web;<br><br>    📚 Estou estudando JavaScript e Python, aprofundando meus conhecimentos em lógica de programação, APIs e boas práticas de desenvolvimento para criar sistemas mais eficientes e escaláveis;<br><br>    🚀 Futuro Desenvolvedor Back-End, com interesse em compreender profundamente o funcionamento das aplicações, desde o servidor até a integração com bancos de dados e serviços externos;<br><br>    🧑‍💻 Pronouns: ele/dele.</p>
 
 ###
 
