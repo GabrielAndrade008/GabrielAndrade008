@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Gabriel Andrade, tenho 18 anos, e atualmente sou um programador Back-End em formação. 😄</p>
+<p align="left">Meu nome é Gabriel Andrade, tenho 18 anos, e atualmente sou um estudante superior de Segurança da Informação. 😄</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Atualmente estou focado no desenvolvimento Back-End, trabalhando na construção da lógica, estrutura e funcionamento das aplicações web;<br><br>    📚 Estou estudando JavaScript e Python, aprofundando meus conhecimentos em lógica de programação, APIs e boas práticas de desenvolvimento para criar sistemas mais eficientes e escaláveis;<br><br>    🚀 Futuro Desenvolvedor Back-End, com interesse em compreender profundamente o funcionamento das aplicações, desde o servidor até a integração com bancos de dados e serviços externos;<br><br>    🧑‍💻 Pronouns: ele/dele.</p>
+<p align="left">💻 Atualmente estou focado no desenvolvimento Back-End e na Segurança da Informação, trabalhando na construção da lógica, estrutura e funcionamento das aplicações web;<br><br>    📚 Estou estudando Python, aprofundando meus conhecimentos em lógica de programação, APIs e boas práticas de desenvolvimento para criar sistemas mais eficientes e escaláveis;<br><br>    🚀 Futuro Desenvolvedor Back-End e profissional de Segurança da Informação, com interesse em compreender profundamente o funcionamento das aplicações, desde o servidor até a integração com bancos de dados e serviços externos;<br><br>    🧑‍💻 Pronouns: ele/dele.</p>
 
 ###
 
@@ -56,15 +56,17 @@
 
 ###
 
-<h2 align="left">Contatos:</h2>
+<h2 align="left">Entre em contato comigo através de:</h2>
 <div align="left">
   <a href="www.linkedin.com/in/gabriel-de-pieri-de-andrade" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <br>
   <a href="https://www.instagram.com/_gabriel.andrade10/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="ga7654491@gmail.com" target="_blank">
+  <br>
+  <a href="https://www.gmail.com/in/ga7654491@gmail.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
