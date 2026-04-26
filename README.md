@@ -1,74 +1,52 @@
-<h1 align="left">Olá 👋 Tudo bem?</h1>
+# Olá, eu sou o Gabriel Andrade 👋
 
-###
+### 🚀 Estudante de Segurança da Informação & Desenvolvedor Back-End
 
-<p align="left">Meu nome é Gabriel Andrade, tenho 18 anos, e atualmente sou um estudante superior de Segurança da Informação. 😄</p>
+Atualmente focado em construir a espinha dorsal de aplicações web seguras e escaláveis. Unindo a lógica do desenvolvimento Back-End com as práticas rigorosas da Segurança da Informação.
 
-###
+---
 
-<h2 align="left">Sobre mim</h2>
+### 💻 Sobre Mim
 
-###
+- 🛠 **Foco Atual:** Desenvolvimento Back-End (Python) e Infraestrutura de Segurança.
+- 📚 **Aprendizado:** Aprofundando em APIs RESTful, LGPD e Criptografia aplicada.
+- 🎯 **Objetivo:** Criar sistemas onde a eficiência e a proteção de dados caminhem juntas.
+- ⚡ **Curiosidade:** Acredito que um código limpo é, por natureza, um código mais seguro.
 
-<p align="left">💻 Atualmente estou focado no desenvolvimento Back-End e na Segurança da Informação, trabalhando na construção da lógica, estrutura e funcionamento das aplicações web;<br><br>    📚 Estou estudando Python, aprofundando meus conhecimentos em lógica de programação, APIs e boas práticas de desenvolvimento para criar sistemas mais eficientes e escaláveis;<br><br>    🚀 Futuro Desenvolvedor Back-End e profissional de Segurança da Informação, com interesse em compreender profundamente o funcionamento das aplicações, desde o servidor até a integração com bancos de dados e serviços externos;<br><br>    🧑‍💻 Pronouns: ele/dele.</p>
+---
 
-###
+### 🛠 Ferramentas e Tecnologias
 
-<h2 align="left">Eu trabalho com:</h2>
+#### Linguagens e Banco de Dados
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-###
+#### Ferramentas e Segurança
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Firefox" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+---
 
-###
+### 📊 Estatísticas do GitHub
 
-<div>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielAndrade008&theme=tokyonight" />
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielAndrade008&theme=tokyonight" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielAndrade008&theme=tokyonight" />
-  <img heihgt="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielAndrade008&theme=tokyonight" /> 
-</div>
+</p>
 
-###
+---
 
-<h2 align="left">Entre em contato comigo através de:</h2>
-<div align="left">
-  <a href="www.linkedin.com/in/gabriel-de-pieri-de-andrade" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <br>
-  <a href="https://www.instagram.com/_gabriel.andrade10/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <br>
-  <a href="https://www.gmail.com/in/ga7654491@gmail.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+### 🤝 Vamos nos conectar?
 
-###
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-de-pieri-de-andrade" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ga7654491@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/_gabriel.andrade10/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
