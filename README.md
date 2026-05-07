@@ -9,7 +9,7 @@ Atualmente focado em construir a espinha dorsal de aplicações web seguras e es
 ### 💻 Sobre Mim
 
 - 🛠 **Foco Atual:** Desenvolvimento Back-End (Python) e Infraestrutura de Segurança.
-- 📚 **Aprendizado:** Aprofundando em APIs RESTful, LGPD e Criptografia aplicada.
+- 📚 **Aprendizado:** Aprofundando em APIs RESTful, LGPD, Criptografia aplicada, Redes, Binários, Firewall e Hardware.
 - 🎯 **Objetivo:** Criar sistemas onde a eficiência e a proteção de dados caminhem juntas.
 - ⚡ **Curiosidade:** Acredito que um código limpo é, por natureza, um código mais seguro.
 
