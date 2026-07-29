@@ -1,52 +1,115 @@
-# Olá, eu sou o Gabriel Andrade 👋
+<h1 align="center">Olá, eu sou Gabriel Andrade! 👋</h1>
 
-### 🚀 Estudante de Segurança da Informação & Desenvolvedor Back-End
-
-Atualmente focado em construir a espinha dorsal de aplicações web seguras e escaláveis. Unindo a lógica do desenvolvimento Back-End com as práticas rigorosas da Segurança da Informação.
-
----
-
-### 💻 Sobre Mim
-
-- 🛠 **Foco Atual:** Desenvolvimento Back-End (Python) e Infraestrutura de Segurança.
-- 📚 **Aprendizado:** Aprofundando em APIs RESTful, LGPD, Criptografia aplicada, Redes, Binários, Firewall e Hardware.
-- 🎯 **Objetivo:** Criar sistemas onde a eficiência e a proteção de dados caminhem juntas.
-- ⚡ **Curiosidade:** Acredito que um código limpo é, por natureza, um código mais seguro.
+<h3 align="center">
+Desenvolvedor Back-End • Python • Dados • Inteligência Artificial
+</h3>
 
 ---
 
-### 🛠 Ferramentas e Tecnologias
+## 👨‍💻 Sobre mim
 
-#### Linguagens e Banco de Dados
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+🎓 Formado em **Técnico em Desenvolvimento de Sistemas**
 
-#### Ferramentas e Segurança
-<p align="left">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Firefox" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</p>
+💻 Desenvolvedor apaixonado por tecnologia, focado em criar soluções utilizando **Python**.
+
+📚 Atualmente estudo de forma independente **Back-End**, **Estruturas de Dados**, **Banco de Dados**, **APIs REST**, **Ciência de Dados** e **Inteligência Artificial**, enquanto me preparo para ingressar em **Ciência da Computação**.
+
+🚀 Meu objetivo é desenvolver aplicações robustas, escaláveis e que gerem impacto real.
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🚀 Tecnologias
 
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielAndrade008&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielAndrade008&theme=tokyonight" />
-</p>
-
----
-
-### 🤝 Vamos nos conectar?
+### 💻 Linguagens
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-de-pieri-de-andrade" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ga7654491@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.instagram.com/_gabriel.andrade10/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite"/>
 </p>
+
+### 🛠 Ferramentas
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,notion"/>
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+- 🐍 Python Avançado
+- 🧩 Programação Orientada a Objetos
+- 🏗 Estruturas de Dados
+- 🌐 Desenvolvimento de APIs REST
+- 🗄 SQL
+- 📊 Ciência de Dados
+- 🤖 Inteligência Artificial
+- ⚡ Boas práticas de desenvolvimento
+
+---
+
+## 🎯 Objetivos
+
+- ✅ Tornar-me Desenvolvedor Back-End
+- ✅ Desenvolver APIs escaláveis
+- ✅ Aprender Machine Learning
+- ✅ Trabalhar com Ciência de Dados
+- ✅ Especializar-me em Inteligência Artificial
+
+---
+
+## 📂 Projetos em destaque
+
+| Projeto | Descrição |
+|----------|-----------|
+| 🎌 **AnimoVERSE** | Plataforma para consulta e gerenciamento de animes utilizando APIs e banco de dados. |
+| ⛪ **Site JCC** | Website desenvolvido para o grupo Jovens Caminhando com Cristo. |
+| 🍕 **Pizzaria Renascer** | Landing Page responsiva para uma pizzaria. |
+| 🐍 **Projetos em Python** | Exercícios, desafios e aplicações desenvolvidas durante meus estudos. |
+
+---
+
+## 🔥 Sequência de contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=GabrielAndrade008&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📈 Gráfico de atividades
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielAndrade008&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌎 Conecte-se comigo
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/gabriel-de-pieri-de-andrade/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:ga7654491@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.instagram.com/_gabriel.andrade10/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "A melhor maneira de prever o futuro é construí-lo."
+
+</div>
